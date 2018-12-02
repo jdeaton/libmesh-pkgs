@@ -1,2 +1,4 @@
 language: cpp
 dist: xenial
+
+script: ./build_libmesh_deb.sh
